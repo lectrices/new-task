@@ -1,0 +1,76 @@
+.cxs {
+	width:300px;
+	background-color: #3C3;
+	background-repeat: no-repeat;
+	background-position: 95px; center;
+	background-image: url(../image/bb.png);
+	padding:10px;
+}
+.tet {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 28px;
+	font-weight: normal;
+	font-variant: normal;
+	color: beige ;
+}
+.kk {
+	width:320px;
+	height:500px;
+	background-color:beige;
+}
+.a{
+	list-style-position: outside;
+    list-style-image: url(../image/1.GIF);
+	list-style-type: none;
+}
+.b {
+	list-style-position: outside;
+	list-style-image:url(../image/2.GIF);
+	list-style-type: none;
+}
+.c {
+	list-style-position: outside;
+	list-style-image:url(../image/3.GIF);
+	list-style-type: none;
+}
+.d {
+	list-style-position: outside;
+	list-style-image:url(../image/4.GIF);
+	list-style-type: none;
+}
+.e {
+	list-style-position: outside;
+    list-style-image:url(../image/5.GIF);
+	list-style-type: none;
+}
+.f {
+	list-style-position: outside;
+	list-style-image:url(../image/6.GIF);
+	list-style-type: none;
+}
+.g {
+	list-style-position: outside;
+	list-style-image:url(../image/7.GIF);
+	list-style-type: none;
+}
+.h {
+	list-style-position: outside;
+	list-style-image:url(../image/8.GIF);
+	list-style-type: none;
+}
+.i {
+	list-style-position: outside;
+	list-style-image:url(../image/9.GIF);
+	list-style-type: none;
+}
+.j {
+	list-style-position: outside;
+	list-style-image:url(../image/10.GIF);
+	list-style-type: none;
+}
+ ul li a{
+	list-style: none;
+	text-decoration: none;
+}

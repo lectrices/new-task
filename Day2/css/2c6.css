@@ -1,0 +1,18 @@
+.m1
+{
+float: left;
+width: 200px;
+height: 100px;
+background-color: #0000FF;
+}
+
+.m1:hover{
+	transform:rotate(30deg);
+}
+.m2
+{
+float: right;
+width: 200px;
+height: 100px;
+background-color:aqua;
+}
